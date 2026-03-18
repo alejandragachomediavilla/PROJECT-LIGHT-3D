@@ -1,0 +1,14 @@
+[attr]lfs -text filter=lfs diff=lfs merge=lfs
+*.png lfs
+*.jpg lfs
+*.jpeg lfs
+*.psd lfs
+*.fbx lfs
+*.obj lfs
+*.mp3 lfs
+*.wav lfs
+*.mp4 lfs
+*.mov lfs
+*.asset lfs
+*.unity merge=unityyamlmerge
+*.prefab merge=unityyamlmerge
