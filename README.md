@@ -11,3 +11,4 @@ Cada semana se basa en un sprint que dura hasta el domingo. Idealmente sería de
 - Semana 6: últimas implementaciones de las fases
 - Semana 7: Arreglo de bugs, testeo y cambios que queden
 - Semana 8: Últimos arreglos
+Se hace una reunión/ chequeo de proyecto semanal
