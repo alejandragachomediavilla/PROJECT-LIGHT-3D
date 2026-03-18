@@ -1,6 +1,7 @@
 CALENDARIO DE PROYECTO (LO QUE A MI ME TIENE SENTIDO)
 
-Cada semana se basa en un sprint que dura hasta el domingo
+Cada semana se basa en un sprint que dura hasta el domingo. Idealmente sería de esta forma:
+
 - Semana 1: Sprint de Definición y Setup
 - Semana 2: Implementación Fase 1
 - Semana 3: Implementación Fase 2
